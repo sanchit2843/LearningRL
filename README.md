@@ -4,6 +4,7 @@
 ### 1. Pong using DQN.
 This code is made with reference and few changes from a book Deep Reinforcement Learning Hands-On By Maxim Lapan.
 The code includes dependencies and wrapper required to visualize rendered environment on google colab. 
+The pretrained weights can be found [here](https://drive.google.com/open?id=1BdPlwF5-W4gEbW3DI-ShGfu0JsveLhqZ).
 #### Result
 The final agent was able to beat game ai by 20-0.
 <br>
